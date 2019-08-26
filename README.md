@@ -1,4 +1,4 @@
-### wui
+### wb-ui
 
 #### start
 
@@ -42,5 +42,3 @@ npm run pretty
 npm run start:demo
 ```
 
-# wb-ui
-# wb-ui
