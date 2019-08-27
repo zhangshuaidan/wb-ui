@@ -1,7 +1,7 @@
 import { css } from 'docz-plugin-css'
 export default {
-  title: 'wb-ui',
-  description: 'wb-ui, 轻量级 React UI 框架',
+  title: 'wingbow-ui',
+  description: 'wingbow-ui, 轻量级 React UI 框架',
   codeSandbox: false,
   typescript: true,
   indexHtml: 'docz/index.html',

@@ -69,7 +69,7 @@ const devConfig = {
       filename: `static/css/main.css`
     }),
     new HtmlWebpackPlugin({
-      title: 'wb-ui',
+      title: 'wingbow-ui',
       filename: 'index.html',
       template: path.join(__dirname, '../example/index.html'),
       inject: true
