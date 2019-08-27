@@ -6,7 +6,7 @@ export default {
   typescript: true,
   indexHtml: 'docz/index.html',
   htmlContext: {
-    favicon: '//image.onfuns.com/favicon.ico'
+    // favicon: '//image.onfuns.com/favicon.ico'
   },
   plugins: [
     css({
